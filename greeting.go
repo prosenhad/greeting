@@ -9,3 +9,7 @@ func RuHello(){
 func EngHello(){
   fmt.Println("Hello")
 }
+
+func KomiHello(){
+  fmt.Println("Видзя Олан")
+}
