@@ -17,3 +17,7 @@ func EngHello(){
 func KomiHello(){
   fmt.Println("Видзя Олан")
 }
+
+func SaulHello(){
+  fmt.Println("Присовесот мисор!")
+}
