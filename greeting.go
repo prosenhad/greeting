@@ -19,5 +19,6 @@ func KomiHello(){
 }
 
 func SaulHello(){
+  // Simple function
   fmt.Println("Присовесот мисор!")
 }
