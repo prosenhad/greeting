@@ -1,16 +1,15 @@
+// Пакет для простого тестирования работы с GitHub
+// непосредсвтвенно через команды в go
 package greeting
 
 import "fmt"
 
+// Простая функция для вывода приветсвия на Русском языке
 func RuHello(){
-  // Простая функция для вывода приветсвия на Русском языке
   fmt.Println("Привет")
 }
-
-func EngHello(){
-  // Простая функция для вывода приветсвия на Английском языке
-  // The simple function for printing "Hello" in English Language
-  
+// The simple function for printing "Hello" in English Language
+func EngHello(){  
   fmt.Println("Hello")
 }
 
@@ -18,7 +17,7 @@ func KomiHello(){
   fmt.Println("Видзя Олан")
 }
 
+// Simple function
 func SaulHello(){
-  // Simple function
   fmt.Println("Присовесот мисор!")
 }
